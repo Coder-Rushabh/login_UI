@@ -1,4 +1,4 @@
 # login_UI
 Simple Login UI in Flutter!
 
-![alt text](http://url/to/img.png)
+![Login Screen](https://github.com/Coder-Rushabh/login_UI/blob/main/login_screen.jpg)
